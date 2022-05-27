@@ -1,4 +1,4 @@
-# 🚵 WayX - Proyecto Integrado de 2º DAM
+# 🚵 WayX - TFG
 
 <br/>
 
