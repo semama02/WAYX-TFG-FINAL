@@ -13,7 +13,7 @@
 
 <br/>
 
-![wayX-banner](./readme files/bannerWayX.png) 
+![wayX-banner](./readme_files/bannerWayX.png) 
 
 
 ## Index
@@ -42,7 +42,7 @@ Para poder probar Wayx, tendrás que descargar la app desde el código QR indica
 
 * Android:
 
-![QR-Android](./readme files/frame.png)
+![QR-Android](./readme_files/frame.png)
 
 > Para poder instalar la app correctamente, deberemos dar permiso para instalar apps de fuentes externas, o bien, activar el modo avión. Esto será necesario, ya que, nuestra app no está publicada en Google Play Store.
 
@@ -66,7 +66,7 @@ const WayX = [
 <!-- team photos -->
 
 <div>
-    <div><img src="./readme files/Sergio.png" width="150" height="150" align="center">&nbsp;&nbsp;Sergio Mariscal</img></div><br/>
+    <div><img src="./readme_files/Sergio.png" width="150" height="150" align="center">&nbsp;&nbsp;Sergio Mariscal</img></div><br/>
 </div>
 
 <br/>
