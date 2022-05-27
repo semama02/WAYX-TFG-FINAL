@@ -13,7 +13,7 @@
 
 <br/>
 
-![wayX-banner](./docs/img/bannerWayX.png) 
+![wayX-banner](./readme files/bannerWayX.png) 
 
 
 ## Index
